@@ -11,10 +11,6 @@ link_text = "Home"
 link_url = "/"
 open_in_new_tab = false
 [[page_sections]]
-block = "hero-1"
-heading = "Bring your idea, we'll make it real"
-template = "text-only-hero-banner"
-[[page_sections]]
 background_image = "/uploads/gilles-lambert-pb_lf8vwapu-unsplash.jpg"
 block = "hero-2"
 content = "We'll make them real"
