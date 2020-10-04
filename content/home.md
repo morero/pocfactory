@@ -34,12 +34,20 @@ headline = "Prototyping"
 content = "For more than 20 years, we've kept up to date with the latest software and technology. Are you considering a new open-source framework? We can provide a detailed report with strengths, weaknesses, pitfalls, and recommendations.<br><br><a href=\"/evaluations\" title=\"Read more\">Read more</a>"
 headline = "Tech evaluation"
 [[page_sections]]
+block = "cta-bar"
+content = "Do you need help with an idea?"
+email_recipient = "soup@spoonish.tech"
+template = "signup-bar"
+[[page_sections]]
 block = "hero-1"
 heading = "Prototyping is the most cost-effective way to prove ideas and reduce risks."
 template = "text-only-hero-banner"
 [[page_sections]]
-block = "footer-1"
-content = ""
-template = "simple-footer"
+block = "footer-2"
+col_2 = ""
+col_3 = ""
+col_4 = ""
+image = ""
+template = "4-column-footer"
 
 +++
