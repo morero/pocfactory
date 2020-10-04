@@ -35,7 +35,7 @@ content = "For more than 20 years, we've kept up to date with the latest softwar
 headline = "Tech evaluation"
 [[page_sections]]
 block = "hero-1"
-heading = "Prototyping is a quick and cost-effective way to reduce risks and prove your ideas"
+heading = "Prototyping is the most cost-effective way to prove ideas and reduce risks."
 template = "text-only-hero-banner"
 
 +++
