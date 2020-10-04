@@ -31,7 +31,7 @@ template = "2-column-text"
 content = "We come with our own Software Development toolchain. It's faster than the competition, and it's tried and tested. We can work standalone, or side-by-side with your existing teams. We combine cost-effective commodity hardware with specialized components.<br><br><a href=\"/prototyping\" title=\"Read more\">Read more</a>"
 headline = "Prototyping"
 [page_sections.col_2]
-content = "For more than 20 years, we've kept up to date with the latest software and technology. Are you considering a new open-source framework? We can provide a detailed report with strengths, weaknesses, pitfalls, and recommendations."
+content = "For more than 20 years, we've kept up to date with the latest software and technology. Are you considering a new open-source framework? We can provide a detailed report with strengths, weaknesses, pitfalls, and recommendations.<br><br><a href=\"/evaluations\" title=\"Read more\">Read more</a>"
 headline = "Tech evaluation"
 [[page_sections]]
 block = "hero-1"
