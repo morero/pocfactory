@@ -37,5 +37,9 @@ headline = "Tech evaluation"
 block = "hero-1"
 heading = "Prototyping is the most cost-effective way to prove ideas and reduce risks."
 template = "text-only-hero-banner"
+[[page_sections]]
+block = "footer-1"
+content = ""
+template = "simple-footer"
 
 +++
