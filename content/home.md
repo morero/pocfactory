@@ -44,9 +44,9 @@ heading = "Prototyping is the most cost-effective way to prove ideas and reduce 
 template = "text-only-hero-banner"
 [[page_sections]]
 block = "footer-2"
-col_2 = ""
-col_3 = ""
-col_4 = ""
+col_2 = "Col2"
+col_3 = "Col3"
+col_4 = "Col4"
 image = ""
 template = "4-column-footer"
 
