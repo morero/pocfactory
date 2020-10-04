@@ -43,3 +43,5 @@ fields:
     label: Enabled
   - type: include
     template: link
+    name: cta
+    label: cta
