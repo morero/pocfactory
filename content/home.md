@@ -33,5 +33,9 @@ headline = "Prototyping"
 [page_sections.col_2]
 content = "For more than 20 years, we've kept up to date with the latest software and technology. Are you considering a new open-source framework? We can provide a detailed report with strengths, weaknesses, pitfalls, and recommendations."
 headline = "Tech evaluation"
+[[page_sections]]
+block = "hero-1"
+heading = "Building a prototype is a quick and cost-effective way to prove your and ideas, find problems early and reduce risks."
+template = "text-only-hero-banner"
 
 +++
