@@ -39,10 +39,6 @@ content = "Do you need help with an idea?"
 email_recipient = "soup@spoonish.tech"
 template = "signup-bar"
 [[page_sections]]
-block = "hero-1"
-heading = "Prototyping is the most cost-effective way to prove ideas and reduce risks."
-template = "text-only-hero-banner"
-[[page_sections]]
 block = "footer-2"
 col_2 = "Col2"
 col_3 = "Col3"
