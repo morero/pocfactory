@@ -3,7 +3,7 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: navigation-header-w-button
+- template: navigation-header
   block: header-2
   logo: "/uploads/logo.svg"
   navigation:
