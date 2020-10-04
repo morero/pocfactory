@@ -24,5 +24,14 @@ open_in_new_tab = false
 [page_sections.image]
 alt_text = ""
 image = ""
+[[page_sections]]
+block = "two-column-1"
+template = "2-column-text"
+[page_sections.col_1]
+content = "We come with our own Software Development toolchain. It's faster than the competition, and it's tried and tested. We can work standalone, or side-by-side with your existing teams. We combine cost-effective commodity hardware with specialized components."
+headline = "Prototyping"
+[page_sections.col_2]
+content = ""
+headline = ""
 
 +++
