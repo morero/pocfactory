@@ -3,11 +3,6 @@ layout: blocks
 title: Homepage
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
-- template: text-only-banner
-  block: text-banner
-  logo: ''
-  navigation: ''
-  cta: ''
 - template: navigation-header
   block: header-2
   logo: "/uploads/logo.svg"
@@ -24,6 +19,11 @@ page_sections:
     link_url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     link_text: Download
     open_in_new_tab: true
+- template: text-only-banner
+  block: text-banner
+  logo: ''
+  navigation: ''
+  cta: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
