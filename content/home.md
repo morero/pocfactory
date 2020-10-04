@@ -35,7 +35,7 @@ content = "For more than 20 years, we've kept up to date with the latest softwar
 headline = "Tech evaluation"
 [[page_sections]]
 block = "hero-1"
-heading = "Building a prototype is a quick and cost-effective way to prove your and ideas, find problems early and reduce risks."
+heading = "Building a prototype is a quick and cost-effective way to prove your and ideas, find problems early, and reduce risks."
 template = "text-only-hero-banner"
 
 +++
