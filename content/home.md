@@ -35,7 +35,7 @@ content = "For more than 20 years, we've kept up to date with the latest softwar
 headline = "Tech evaluation"
 [[page_sections]]
 block = "cta-bar"
-content = "Do you need help with an idea?"
+content = "Get in touch"
 email_recipient = "soup@spoonish.tech"
 template = "signup-bar"
 [[page_sections]]
